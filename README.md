@@ -10,7 +10,7 @@ Construct 2 based 2D game. It's an endless flying game.
 
 ![](./images/prev1.png)
 
-![](./images/prev.gif)
+![](./images/prev1.gif)
 
 ### Free to edit and contribute
 
